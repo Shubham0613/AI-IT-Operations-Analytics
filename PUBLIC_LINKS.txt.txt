@@ -1,0 +1,9 @@
+AI-IT OPERATIONS ANALYTICS
+==========================
+
+PUBLIC POWER BI DASHBOARD:
+https://app.powerbi.com/view?r=eyJrIjoiYjFhNjliNmUtZTI0Ni00Y2UxLWJjOTctNjdjMzQyYjQwN2UwIiwidCI6Ijg3MGY4ZTE2LTllMWQtNDNjNi1hZGUwLWMxMDY1ODAxYTc2MiJ9
+
+
+HTML EMBED CODE:
+<iframe title="AI_IT_Operations_Analytics" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjFhNjliNmUtZTI0Ni00Y2UxLWJjOTctNjdjMzQyYjQwN2UwIiwidCI6Ijg3MGY4ZTE2LTllMWQtNDNjNi1hZGUwLWMxMDY1ODAxYTc2MiJ9" frameborder="0" allowFullScreen="true"></iframe>
