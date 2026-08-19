@@ -1,5 +1,8 @@
 \# AI-IT Operations Analytics \& Incident Intelligence Platform
 🌐 Live Demo: https://ai-it-operations-analytics.streamlit.app
+📊 Interactive Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjFhNjliNmUtZTI0Ni00Y2UxLWJjOTctNjdjMzQyYjQwN2UwIiwidCI6Ijg3MGY4ZTE2LTllMWQtNDNjNi1hZGUwLWMxMDY1ODAxYTc2MiJ9
+
+Explore the interactive Power BI dashboard using dynamic KPI cards, slicers, filters, and cross-filtering to analyze IT incidents, SLA performance, service quality, ticket trends, and operational insights.
 
 
 An end-to-end IT operations analytics solution combining \*\*MySQL, SQL, Excel, Python/Pandas, AI-assisted incident prioritization, Power BI, and Streamlit\*\* to analyze IT incidents, monitor SLA performance, and support operational decision-making.
